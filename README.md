@@ -1,0 +1,1 @@
+Working through the excellent resources, ["Type-Driven API Design in Rust"](https://willcrichton.net/rust-api-type-patterns/introduction.html) by Will Crichton.
